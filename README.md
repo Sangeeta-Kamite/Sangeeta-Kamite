@@ -19,7 +19,7 @@
 
 ---
 
-## 📌 Snapshot
+## 📌 Introduction
 
 - 6+ years turning **raw data → decisions** across **Finance (mortgage risk), Consulting (go-to-market), Healthcare (EHR)**  
 - Build **scalable ETL**, **predictive models**, and **executive dashboards** that move KPIs  
@@ -123,43 +123,90 @@
 </p>
 
 ---
-
-## 🧪 Featured Projects (Cards)
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <h3>🧠 Depression Detection in Social Media</h3>
-      <i>NLP + ML on Twitter to detect depressive patterns</i><br/>
+      <p><i>Applied NLP + ML on Twitter data to detect depressive patterns.</i></p>
       <a href="https://github.com/Sangeeta-Kamite/Detection-of-Depression-in-Social-Media-via-Twitter-Using-Machine-Learning-Approach">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td>
+    <td width="50%">
       <h3>📊 Unemployment Forecasting</h3>
-      <i>Time-series forecasting using ARIMA & XGBoost</i><br/>
+      <p><i>Time-series forecasting using ARIMA & XGBoost to predict unemployment trends.</i></p>
       <a href="https://github.com/Sangeeta-Kamite/Unemployment-Rate-Forecasting-Using-ARIMA-and-XGBoost">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <h3>🏡 Ames Housing Price Prediction</h3>
-      <i>Regression + feature engineering for housing prices</i><br/>
+      <p><i>Regression + feature engineering to model housing price trends.</i></p>
       <a href="https://github.com/Sangeeta-Kamite/Ames-Housing-Price-Prediction-Using-Machine-Learning">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td>
+    <td width="50%">
       <h3>📰 Text Classification & Topic Modeling</h3>
-      <i>Topic modeling on economic news with spaCy & ML</i><br/>
+      <p><i>Topic modeling on economic news using spaCy & machine learning.</i></p>
       <a href="https://github.com/Sangeeta-Kamite/Text-Classification-and-Topic-Modeling-Using-spaCy-and-Machine-Learning">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>👩‍👩‍👧‍👦 Adult Income Prediction</h3>
+      <p><i>Predicting income groups from US Census data using ML classification models.</i></p>
+      <a href="https://github.com/Sangeeta-Kamite/Prediction-of-Adult-Income-Based-on-Census-Data">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🎬 Metacritic Movie Analytics</h3>
+      <p><i>Exploring how directors and cast impact Metacritic ratings.</i></p>
+      <a href="https://github.com/Sangeeta-Kamite/Metacritic-Movie-Analytics-Director-Cast-Exploration-">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📑 Text Mining & Analytics</h3>
+      <p><i>Extracting insights from text data using Python NLP pipelines.</i></p>
+      <a href="https://github.com/Sangeeta-Kamite/Text-Mining-and-Analytics">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📈 World Happiness Report Analysis</h3>
+      <p><i>Analyzing socio-economic indicators to explain world happiness scores.</i></p>
+      <a href="https://github.com/Sangeeta-Kamite/World-Happiness-Report-Analysis">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💳 Credit Card Fraud Detection</h3>
+      <p><i>Built ML classification models to detect fraudulent transactions.</i></p>
+      <a href="https://github.com/Sangeeta-Kamite/Credit-Card-Fraud-Detection">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🌦 Extreme Weather Analysis</h3>
+      <p><i>Exploratory analysis and visualization of extreme weather events.</i></p>
+      <a href="https://github.com/Sangeeta-Kamite/Extreme-Weather-Analysis">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
 
+---
 ---
 ## 🧩 Experience (Collapsible)
 
