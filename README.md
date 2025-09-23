@@ -19,28 +19,23 @@
 
 ---
 
-## 📌 Introduction
 
-- 6+ years turning **raw data → decisions** across **Finance (mortgage risk), Consulting (go-to-market), Healthcare (EHR)**  
-- Build **scalable ETL**, **predictive models**, and **executive dashboards** that move KPIs  
-- Comfortable across **Python + SQL + BI + Cloud (AWS/Azure/GCP)**  
-- MS in **Business Analytics** @ UTA *(May 2025)*
+<table>
+  <tr>
+    <!-- Column 1 -->
+    <td width="50%" valign="top">
+      <h3>📌 Introduction</h3>
+      I’m a passionate Data Analyst with 6+ years of experience transforming raw data into actionable insights across finance, consulting, and healthcare. I thrive on uncovering patterns, building predictive   models, and creating dashboards that drive real business impact — because for me, every dataset tells a story worth sharing.
+    </td>
+    <!-- Column 2 -->
+    <td width="50%" valign="top">
+      <h3>📊 Data Impact Highlights</h3>
+      I deliver impact by automating pipelines (–30% effort), forecasting risk (–7% defaults), building executive dashboards (+37% decision speed), enabling real-time insights (+17% revenue), and optimizing healthcare data flows (–75% batch time, –50% reporting time).
+    </td>
+  </tr>
+</table>
 
-> *“Every dataset tells a story — I make sure it’s clear, trusted, and actionable.”*
-
----
-
-## 🧭 Analyst’s Dashboard (Quick Impact)
-
-- ⚙️ Automated **Python + Airflow** pipelines → manual processing ↓ **30%**
-- 🔮 Risk forecasting (LogReg, RF, ARIMA/Prophet) → early-warning signals & defaults ↓ **~7%**
-- 📈 Power BI exec views → decision speed/engagement ↑ **37%**
-- 🚀 Real-time campaign intelligence (AWS/Kafka) → revenue ↑ **17%**
-- 🏥 PySpark + BigQuery for EHR → batch time ↓ **75%**, reporting time ↓ **50%**
-
----
-
-## 🧰 Skill Cloud (with Icons)
+## 🧰 Skill Cloud 
 
 <p align="center">
   <!-- Languages -->
@@ -126,193 +121,216 @@
 ---
 ## 🚀 Data Analytics & Machine Learning Projects
 
+
 <table>
-  <!-- Row 1 -->
   <tr>
-    <td valign="top">
+    <td width="30%" valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Extreme-Weather-Analysis">
-        <img src="https://img.shields.io/badge/Extreme%20Weather%20Analysis-0ea5e9?style=for-the-badge&logo=python&logoColor=white" width="280" />
-      </a>  
-      <img src="https://img.shields.io/badge/Domain-Climate%20Analytics-0ea5e9?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Pandas%20%7C%20Matplotlib-2563eb?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Focus-EDA%20%7C%20Visualization-9333ea?style=for-the-badge">  
-      <a href="https://github.com/Sangeeta-Kamite/Extreme-Weather-Analysis"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Extreme%20Weather%20Analysis-0ea5e9?style=for-the-badge&logo=python&logoColor=white" width="280%" />
       </a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/Sangeeta-Kamite/LLM-based-Enhanced-Movie-Recommendation-System">
-        <img src="https://img.shields.io/badge/LLM%20Movie%20Recommender-f97316?style=for-the-badge&logo=openai&logoColor=white" width="280" />
-      </a>  
-      <img src="https://img.shields.io/badge/Domain-Recommendation%20Systems-f97316?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Tech-Embeddings%20%7C%20Vector%20DB-22c55e?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Focus-NLP%20%7C%20Similarity%20Search-9333ea?style=for-the-badge">  
-      <a href="https://github.com/Sangeeta-Kamite/LLM-based-Enhanced-Movie-Recommendation-System">
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Climate%20Analytics-0ea5e9?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Pandas%20%7C%20Matplotlib-2563eb?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Focus-EDA%20%7C%20Visualization-9333ea?style=for-the-badge">
+        <a href="https://github.com/Sangeeta-Kamite/Extreme-Weather-Analysis">
         <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+    </td>
+    <td width="30%" valign="top">
+      <a href="https://github.com/Sangeeta-Kamite/LLM-based-Enhanced-Movie-Recommendation-System">
+        <img src="https://img.shields.io/badge/LLM%20Movie%20Recommender-f97316?style=for-the-badge&logo=openai&logoColor=white" width="280%" />
       </a>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Recommendation%20Systems-f97316?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tech-Embeddings%20%7C%20Vector%20DB-22c55e?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Focus-NLP%20%7C%20Similarity-2563eb?style=for-the-badge">
+        <a href="https://github.com/Sangeeta-Kamite/LLM-based-Enhanced-Movie-Recommendation-System">
+        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
     </td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <td valign="top">
+    <td width="30%" valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Ames-Housing-Price-Prediction-Using-Machine-Learning">
-        <img src="https://img.shields.io/badge/MS%20Housing%20Prediction-3b82f6?style=for-the-badge&logo=databricks&logoColor=white" width="280" />
-      </a>  
-      <img src="https://img.shields.io/badge/Domain-Real%20Estate-ef4444?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Tech-Regression%20%7C%20Feature%20Eng-2563eb?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Focus-Predictive%20Modeling-9333ea?style=for-the-badge">  
-      <a href="https://github.com/Sangeeta-Kamite/Ames-Housing-Price-Prediction-Using-Machine-Learning">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/MS%20Housing%20Price%20Prediction-3b82f6?style=for-the-badge&logo=databricks&logoColor=white" width="280%" />
       </a>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Real%20Estate-ef4444?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tech-Regression%20%7C%20Feature%20Engineering-2563eb?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Focus-Predictive%20Modeling-9333ea?style=for-the-badge">
+        <a href="https://github.com/Sangeeta-Kamite/Ames-Housing-Price-Prediction-Using-Machine-Learning">
+          <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
     </td>
-    <td valign="top">
+    <td width="30%" valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Prediction-of-Adult-Income-Based-on-Census-Data">
-        <img src="https://img.shields.io/badge/Adult%20Income%20Prediction-22c55e?style=for-the-badge&logo=scikitlearn&logoColor=white" width="280" />
-      </a>  
-      <img src="https://img.shields.io/badge/Domain-Census%20Data-16a34a?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Tech-Classification%20%7C%20EDA-2563eb?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Focus-Income%20Group%20Prediction-9333ea?style=for-the-badge">  
-      <a href="https://github.com/Sangeeta-Kamite/Prediction-of-Adult-Income-Based-on-Census-Data">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Adult%20Income%20Prediction-22c55e?style=for-the-badge&logo=scikitlearn&logoColor=white" width="280%" />
       </a>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Census%20Data-16a34a?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tech-Classification%20%7C%20EDA-2563eb?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Focus-Income%20Group%20Prediction-9333ea?style=for-the-badge">
+        <a href="https://github.com/Sangeeta-Kamite/Prediction-of-Adult-Income-Based-on-Census-Data">
+          <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
     </td>
   </tr>
-
   <!-- Row 3 -->
   <tr>
-    <td valign="top">
+    <td width="30%" valign="top">
       <a href="https://github.com/Sangeeta-Kamite/NYC-Air-Airbnb-Streamlight-Dashboard">
-        <img src="https://img.shields.io/badge/NYC%20Airbnb%20Dashboard-0ea5e9?style=for-the-badge&logo=streamlit&logoColor=white" width="280" />
-      </a>  
-      <img src="https://img.shields.io/badge/Domain-Marketplace-3b82f6?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Tech-Streamlit%20%7C%20SQLite-9333ea?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Focus-Interactive%20Visualization-9333ea?style=for-the-badge">  
-      <a href="https://github.com/Sangeeta-Kamite/NYC-Air-Airbnb-Streamlight-Dashboard">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/NYC%20Airbnb%20Streamlit%20Dashboard-0ea5e9?style=for-the-badge&logo=streamlit&logoColor=white" width="280%" />
       </a>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Marketplace-3b82f6?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tech-Streamlit%20%7C%20SQLite-9333ea?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Focus-Interactive%20Visualization-9333ea?style=for-the-badge">
+        <a href="https://github.com/Sangeeta-Kamite/NYC-Air-Airbnb-Streamlight-Dashboard">
+          <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
     </td>
-    <td valign="top">
+    <td width="30%" valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Metacritic-Movie-Analytics-Director-Cast-Exploration-">
-        <img src="https://img.shields.io/badge/Metacritic%20Movie%20Analytics-facc15?style=for-the-badge&logo=imdb&logoColor=black" width="280" />
-      </a>  
-      <img src="https://img.shields.io/badge/Domain-Entertainment-f59e0b?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Tech-EDA%20%7C%20Visualization-2563eb?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Focus-Cast%20%26%20Director%20Impact-9333ea?style=for-the-badge">  
-      <a href="https://github.com/Sangeeta-Kamite/Metacritic-Movie-Analytics-Director-Cast-Exploration-">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Metacritic%20Movie%20Analytics-FFCC00?style=for-the-badge&logo=imdb&logoColor=black" width="280%" />
       </a>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Entertainment-f59e0b?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tech-EDA%20%7C%20Visualization-2563eb?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Focus-Cast%20%26%20Director%20Impact-9333ea?style=for-the-badge">
+        <a href="https://github.com/Sangeeta-Kamite/Metacritic-Movie-Analytics-Director-Cast-Exploration-">
+          <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
     </td>
   </tr>
 
   <!-- Row 4 -->
   <tr>
-    <td valign="top">
+    <td width="30%" valign="top">
       <a href="https://github.com/Sangeeta-Kamite/A-B-Testing-Dashboard-Streamlight-SQLite-Python">
-        <img src="https://img.shields.io/badge/A%2FB%20Testing%20Dashboard-ec4899?style=for-the-badge&logo=streamlit&logoColor=white" width="280" />
-      </a>  
-      <img src="https://img.shields.io/badge/Domain-Experimentation-ef4444?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Streamlit-2563eb?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Focus-Experiment%20Analysis-9333ea?style=for-the-badge">  
-      <a href="https://github.com/Sangeeta-Kamite/A-B-Testing-Dashboard-Streamlight-SQLite-Python">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/A%2FB%20Testing%20Dashboard-ec4899?style=for-the-badge&logo=streamlit&logoColor=white" width="280%" />
       </a>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Experimentation-ef4444?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Streamlit-2563eb?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Focus-Experiment%20Analysis-9333ea?style=for-the-badge">
+        <a href="https://github.com/Sangeeta-Kamite/A-B-Testing-Dashboard-Streamlight-SQLite-Python">
+          <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
     </td>
-    <td valign="top">
+    <td width="30%" valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Text-Classification-and-Topic-Modeling-Using-spaCy-and-Machine-Learning">
-        <img src="https://img.shields.io/badge/Text%20Classification%20%26%20Topic%20Modeling-9333ea?style=for-the-badge&logo=python&logoColor=white" width="280" />
-      </a>  
-      <img src="https://img.shields.io/badge/Domain-NLP-22c55e?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Tech-spaCy%20%7C%20Topic%20Models-2563eb?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Focus-Classification%20%7C%20Themes-9333ea?style=for-the-badge">  
-      <a href="https://github.com/Sangeeta-Kamite/Text-Classification-and-Topic-Modeling-Using-spaCy-and-Machine-Learning">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Text%20Classification%20%26%20Topic%20Modeling-9333ea?style=for-the-badge&logo=python&logoColor=white" width="280%" />
       </a>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-NLP-22c55e?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tech-spaCy%20%7C%20Topic%20Models-2563eb?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Focus-Classification%20%7C%20Themes-9333ea?style=for-the-badge">
+        <a href="https://github.com/Sangeeta-Kamite/Text-Classification-and-Topic-Modeling-Using-spaCy-and-Machine-Learning">
+          <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
     </td>
   </tr>
-
   <!-- Row 5 -->
   <tr>
-    <td valign="top">
+    <td width="30%" valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Intelligent-Document-Processing-System-for-Compliance-and-Security">
-        <img src="https://img.shields.io/badge/Intelligent%20Document%20Processing-0ea5e9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="280" />
-      </a>  
-      <img src="https://img.shields.io/badge/Domain-RegTech-f97316?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Tech-OCR%20%7C%20NLP-2563eb?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Focus-Compliance%20%26%20Security-9333ea?style=for-the-badge"> 
-      <a href="https://github.com/Sangeeta-Kamite/Intelligent-Document-Processing-System-for-Compliance-and-Security">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Intelligent%20Document%20Processing-0ea5e9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="280%" />
       </a>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-RegTech-f97316?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tech-OCR%20%7C%20NLP-2563eb?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Focus-Compliance%20%26%20Security-9333ea?style=for-the-badge">
+        <a href="https://github.com/Sangeeta-Kamite/Intelligent-Document-Processing-System-for-Compliance-and-Security">
+          <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
     </td>
-    <td valign="top">
+    <td width="30%" valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Unemployment-Rate-Forecasting-Using-ARIMA-and-XGBoost">
-        <img src="https://img.shields.io/badge/Unemployment%20Forecasting-3b82f6?style=for-the-badge&logo=googleanalytics&logoColor=white" width="280" />
-      </a>  
-      <img src="https://img.shields.io/badge/Domain-Macro%20Economics-2563eb?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Tech-ARIMA%20%7C%20XGBoost-9333ea?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Focus-Time%20Series%20Forecasting-9333ea?style=for-the-badge">  
-      <a href="https://github.com/Sangeeta-Kamite/Unemployment-Rate-Forecasting-Using-ARIMA-and-XGBoost">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Unemployment%20Rate%20Forecasting-3b82f6?style=for-the-badge&logo=googleanalytics&logoColor=white" width="280%" />
       </a>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Macro%20Economics-2563eb?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tech-ARIMA%20%7C%20XGBoost-9333ea?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Focus-Time%20Series%20Forecasting-9333ea?style=for-the-badge">
+        <a href="https://github.com/Sangeeta-Kamite/Unemployment-Rate-Forecasting-Using-ARIMA-and-XGBoost">
+          <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
     </td>
   </tr>
 
   <!-- Row 6 -->
   <tr>
-    <td valign="top">
+    <td width="30%" valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Detection-of-Depression-in-Social-Media-via-Twitter-Using-Machine-Learning-Approach">
-        <img src="https://img.shields.io/badge/Depression%20Detection%20(Twitter)-ef4444?style=for-the-badge&logo=twitter&logoColor=white" width="280" />
-      </a>  
-      <img src="https://img.shields.io/badge/Domain-Social%20NLP-f43f5e?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Tech-ML%20%7C%20Text%20Mining-2563eb?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Focus-Mental%20Health%20Insights-9333ea?style=for-the-badge">  
-      <a href="https://github.com/Sangeeta-Kamite/Detection-of-Depression-in-Social-Media-via-Twitter-Using-Machine-Learning-Approach">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Depression%20Detection%20(Twitter)-ef4444?style=for-the-badge&logo=twitter&logoColor=white" width="280%" />
       </a>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Social%20NLP-f43f5e?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tech-ML%20%7C%20Text%20Mining-2563eb?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Focus-Mental%20Health%20Insights-9333ea?style=for-the-badge">
+        <a href="https://github.com/Sangeeta-Kamite/Detection-of-Depression-in-Social-Media-via-Twitter-Using-Machine-Learning-Approach">
+          <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+    </td>
+    <td width="30%" valign="top">
+      <!-- intentionally blank (11th project makes last row single-column) -->
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <!-- Education Column -->
+    <td width="50%" valign="top">
+
+## 🎓 Education
+
+- **M.S., Business Analytics**
+  <br>University of Texas at Arlington *(May 2025)*</br>
+- **M.Tech., Computer Science & Engineering** 
+  <br>Dr. B.A. Technological University</br>  
+- **B.Tech., Computer Science & Engineering**
+  <br>Dr. B.A. Marathwada University</br>
+
+    </td>
+
+    <!-- Experience Column -->
+    <td width="50%" valign="top">
 
 ## 🧩 Experience (Collapsible)
 
 <details>
   <summary><b>Data Analyst — Mr. Cooper Group (2024–Present, TX)</b></summary>
   <br/>
-  • Built ETL with <b>Python + Airflow</b> → manual processing ↓ <b>30%</b>  
-  • EDA on mortgage data → insights ↑ <b>66%</b>  
-  • Risk models & forecasting (<i>LogReg, RF, ARIMA/Prophet</i>)  
-  • Designed <b>Power BI</b> dashboards → decision efficiency ↑ <b>37%</b>  
-  • Secured Azure pipelines; <b>GDPR/PCI-DSS</b> compliant  
+  Built Python + Airflow ETL (–30% effort), drove EDA insights (+66%), developed risk models (LogReg, RF, ARIMA/Prophet), delivered Power BI dashboards (+37% decision efficiency), and secured Azure pipelines (GDPR/PCI-DSS compliant).
 </details>
 
 <details>
   <summary><b>Data Analyst — Deloitte (2020–2023, India)</b></summary>
   <br/>
-  • SQL/Python pipelines for funnel & pricing; AWS Glue/Redshift, <b>Kafka</b> streaming  
-  • A/B testing, clustering, anomaly detection  
-  • Revenue ↑ <b>17%</b>, manual reporting time ↓ <b>80%</b>  
+  Developed SQL/Python pipelines with AWS Glue/Redshift & Kafka streaming, applied A/B testing, clustering, and anomaly detection, driving +17% revenue and cutting manual reporting time by 80%.  
 </details>
 
 <details>
   <summary><b>Jr. Data Analyst — NextGen Healthcare (2017–2020, India)</b></summary>
   <br/>
-  • Automated EHR ETL (Python/SQL) → reporting time ↓ <b>50%</b>  
-  • Migrated to <b>PySpark + BigQuery</b> → batch time ↓ <b>75%</b>  
-  • Tableau KPIs; SHAP for model explainability; strict <b>HIPAA</b>  
+ Automated EHR ETL with Python/SQL (–50% reporting time), migrated to PySpark + BigQuery (–75% batch time), and built Tableau KPI dashboards with SHAP explainability under strict HIPAA compliance.
 </details>
-
----
-
-
----
-
-## 🎓 Education
-
-- **M.S., Business Analytics** — University of Texas at Arlington *(May 2025)*  
-- **M.Tech., Computer Science & Engineering** — Dr. B.A. Technological University *(2020)*  
-- **B.Tech., Computer Science & Engineering** — Dr. B.A. Marathwada University *(2017)*  
-
----
+</td>
+</tr>
+</table>
 
 <p align="center"><i>Turning data into clarity, risks into strategy, and dashboards into decisions.</i></p>
-
-
 
