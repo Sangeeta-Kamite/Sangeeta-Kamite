@@ -129,24 +129,20 @@
 <table>
   <!-- Row 1 -->
   <tr>
-    <td width="25%" valign="top">
-      <h3>🌦 Extreme Weather Analysis</h3>
+    <td valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Extreme-Weather-Analysis">
-        <img src="https://img.shields.io/badge/Extreme%20Weather%20Analysis-0ea5e9?style=for-the-badge&logo=python&logoColor=white" width="100%" />
+        <img src="https://img.shields.io/badge/Extreme%20Weather%20Analysis-0ea5e9?style=for-the-badge&logo=python&logoColor=white" width="280%" />
       </a>
-      <p>
         <img src="https://img.shields.io/badge/Domain-Climate%20Analytics-0ea5e9?style=for-the-badge">
         <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Pandas%20%7C%20Matplotlib-2563eb?style=for-the-badge">
         <img src="https://img.shields.io/badge/Focus-EDA%20%7C%20Visualization-9333ea?style=for-the-badge">
-      </p>
       <a href="https://github.com/Sangeeta-Kamite/Extreme-Weather-Analysis">
         <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
-   <td width="25%" valign="top">
-      <h3>🎬 LLM-based Enhanced Movie Recommendation</h3>
+    <td valign="top">
       <a href="https://github.com/Sangeeta-Kamite/LLM-based-Enhanced-Movie-Recommendation-System">
-        <img src="https://img.shields.io/badge/LLM%20Movie%20Recommender-f97316?style=for-the-badge&logo=openai&logoColor=white" width="100%" />
+        <img src="https://img.shields.io/badge/LLM%20Movie%20Recommender-f97316?style=for-the-badge&logo=openai&logoColor=white" width="280%" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Domain-Recommendation%20Systems-f97316?style=for-the-badge">
@@ -161,10 +157,9 @@
 
   <!-- Row 2 -->
   <tr>
-    <td width="25%" valign="top">
-      <h3>🏡 MS-Housing Price Prediction</h3>
+    <td valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Ames-Housing-Price-Prediction-Using-Machine-Learning">
-        <img src="https://img.shields.io/badge/MS%20Housing%20Prediction-3b82f6?style=for-the-badge&logo=databricks&logoColor=white" width="100%" />
+        <img src="https://img.shields.io/badge/MS%20Housing%20Prediction-3b82f6?style=for-the-badge&logo=databricks&logoColor=white" width="280%" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Domain-Real%20Estate-ef4444?style=for-the-badge">
@@ -175,10 +170,9 @@
         <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
-   <td width="25%" valign="top">
-      <h3>👩‍👩‍👧 Adult Income Prediction</h3>
+   <td valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Prediction-of-Adult-Income-Based-on-Census-Data">
-        <img src="https://img.shields.io/badge/Adult%20Income%20Prediction-22c55e?style=for-the-badge&logo=scikitlearn&logoColor=white" width="100%" />
+        <img src="https://img.shields.io/badge/Adult%20Income%20Prediction-22c55e?style=for-the-badge&logo=scikitlearn&logoColor=white" width="280%" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Domain-Census%20Data-16a34a?style=for-the-badge">
@@ -193,10 +187,9 @@
 
   <!-- Row 3 -->
   <tr>
-    <td width="25%" valign="top">
-      <h3>🏙 NYC Airbnb Streamlit Dashboard</h3>
+    <td valign="top">
       <a href="https://github.com/Sangeeta-Kamite/NYC-Air-Airbnb-Streamlight-Dashboard">
-        <img src="https://img.shields.io/badge/NYC%20Airbnb%20Dashboard-0ea5e9?style=for-the-badge&logo=streamlit&logoColor=white" width="100%" />
+        <img src="https://img.shields.io/badge/NYC%20Airbnb%20Dashboard-0ea5e9?style=for-the-badge&logo=streamlit&logoColor=white" width="280%" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Domain-Marketplace-3b82f6?style=for-the-badge">
@@ -207,10 +200,9 @@
         <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
-   <td width="25%" valign="top">
-      <h3>🎥 Metacritic Movie Analytics</h3>
+   <td valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Metacritic-Movie-Analytics-Director-Cast-Exploration-">
-        <img src="https://img.shields.io/badge/Metacritic%20Movie%20Analytics-facc15?style=for-the-badge&logo=imdb&logoColor=black" width="100%" />
+        <img src="https://img.shields.io/badge/Metacritic%20Movie%20Analytics-facc15?style=for-the-badge&logo=imdb&logoColor=black" width="280%" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Domain-Entertainment-f59e0b?style=for-the-badge">
@@ -225,10 +217,9 @@
 
   <!-- Row 4 -->
   <tr>
-    <td width="25%" valign="top">
-      <h3>🧪 A/B Testing Dashboard</h3>
+    <td valign="top">
       <a href="https://github.com/Sangeeta-Kamite/A-B-Testing-Dashboard-Streamlight-SQLite-Python">
-        <img src="https://img.shields.io/badge/A%2FB%20Testing%20Dashboard-ec4899?style=for-the-badge&logo=streamlit&logoColor=white" width="100%" />
+        <img src="https://img.shields.io/badge/A%2FB%20Testing%20Dashboard-ec4899?style=for-the-badge&logo=streamlit&logoColor=white" width="280%" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Domain-Experimentation-ef4444?style=for-the-badge">
@@ -239,10 +230,9 @@
         <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
-  <td width="25%" valign="top">
-       <h3>📰 Text Classification & Topic Modeling</h3>
+  <td valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Text-Classification-and-Topic-Modeling-Using-spaCy-and-Machine-Learning">
-        <img src="https://img.shields.io/badge/Text%20Classification%20%26%20Topic%20Modeling-9333ea?style=for-the-badge&logo=python&logoColor=white" width="100%" />
+        <img src="https://img.shields.io/badge/Text%20Classification%20%26%20Topic%20Modeling-9333ea?style=for-the-badge&logo=python&logoColor=white" width="280%" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Domain-NLP-22c55e?style=for-the-badge">
@@ -257,10 +247,9 @@
 
   <!-- Row 5 -->
   <tr>
-    <td width="25%" valign="top">
-      <h3>📑 Intelligent Document Processing System</h3>
+    <td valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Intelligent-Document-Processing-System-for-Compliance-and-Security">
-        <img src="https://img.shields.io/badge/Intelligent%20Document%20Processing-0ea5e9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="100%" />
+        <img src="https://img.shields.io/badge/Intelligent%20Document%20Processing-0ea5e9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="280%" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Domain-RegTech-f97316?style=for-the-badge">
@@ -271,10 +260,9 @@
         <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white" >
       </a>
     </td>
-    <td width="25%" valign="top">
-      <h3>📈 Unemployment Rate Forecasting</h3>
+    <td valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Unemployment-Rate-Forecasting-Using-ARIMA-and-XGBoost">
-        <img src="https://img.shields.io/badge/Unemployment%20Forecasting-3b82f6?style=for-the-badge&logo=googleanalytics&logoColor=white" width="100%" />
+        <img src="https://img.shields.io/badge/Unemployment%20Forecasting-3b82f6?style=for-the-badge&logo=googleanalytics&logoColor=white" width="280%" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Domain-Macro%20Economics-2563eb?style=for-the-badge">
@@ -289,10 +277,9 @@
 
   <!-- Row 6 -->
   <tr>
-    <td width="25%" valign="top">
-      <h3>💬 Detection of Depression in Social Media</h3>
+    <td valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Detection-of-Depression-in-Social-Media-via-Twitter-Using-Machine-Learning-Approach">
-        <img src="https://img.shields.io/badge/Depression%20Detection%20(Twitter)-ef4444?style=for-the-badge&logo=twitter&logoColor=white" width="100%" />
+        <img src="https://img.shields.io/badge/Depression%20Detection%20(Twitter)-ef4444?style=for-the-badge&logo=twitter&logoColor=white" width="280%" />
       </a>
       <p>
         <img src="https://img.shields.io/badge/Domain-Social%20NLP-f43f5e?style=for-the-badge">
@@ -351,4 +338,170 @@
 <p align="center"><i>Turning data into clarity, risks into strategy, and dashboards into decisions.</i></p>
 
 
+
+<table>
+  <!-- Row 1 -->
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/Sangeeta-Kamite/Extreme-Weather-Analysis">
+        <img src="https://img.shields.io/badge/Extreme%20Weather%20Analysis-0ea5e9?style=for-the-badge&logo=python&logoColor=white" width="280" />
+      </a>  
+      <img src="https://img.shields.io/badge/Domain-Climate%20Analytics-0ea5e9?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Pandas%20%7C%20Matplotlib-2563eb?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Focus-EDA%20%7C%20Visualization-9333ea?style=for-the-badge">  
+      <a href="https://github.com/Sangeeta-Kamite/Extreme-Weather-Analysis"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Sangeeta-Kamite/LLM-based-Enhanced-Movie-Recommendation-System">
+        <img src="https://img.shields.io/badge/LLM%20Movie%20Recommender-f97316?style=for-the-badge&logo=openai&logoColor=white" width="280" />
+      </a>  
+      <img src="https://img.shields.io/badge/Domain-Recommendation%20Systems-f97316?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Tech-Embeddings%20%7C%20Vector%20DB-22c55e?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Focus-NLP%20%7C%20Similarity%20Search-9333ea?style=for-the-badge">  
+      <a href="https://github.com/Sangeeta-Kamite/LLM-based-Enhanced-Movie-Recommendation-System">
+        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/Sangeeta-Kamite/Ames-Housing-Price-Prediction-Using-Machine-Learning">
+        <img src="https://img.shields.io/badge/MS%20Housing%20Prediction-3b82f6?style=for-the-badge&logo=databricks&logoColor=white" width="280" />
+      </a>  
+      <img src="https://img.shields.io/badge/Domain-Real%20Estate-ef4444?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Tech-Regression%20%7C%20Feature%20Eng-2563eb?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Focus-Predictive%20Modeling-9333ea?style=for-the-badge">  
+      <a href="https://github.com/Sangeeta-Kamite/Ames-Housing-Price-Prediction-Using-Machine-Learning">
+        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Sangeeta-Kamite/Prediction-of-Adult-Income-Based-on-Census-Data">
+        <img src="https://img.shields.io/badge/Adult%20Income%20Prediction-22c55e?style=for-the-badge&logo=scikitlearn&logoColor=white" width="280" />
+      </a>  
+      <img src="https://img.shields.io/badge/Domain-Census%20Data-16a34a?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Tech-Classification%20%7C%20EDA-2563eb?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Focus-Income%20Group%20Prediction-9333ea?style=for-the-badge">  
+      <a href="https://github.com/Sangeeta-Kamite/Prediction-of-Adult-Income-Based-on-Census-Data">
+        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/Sangeeta-Kamite/NYC-Air-Airbnb-Streamlight-Dashboard">
+        <img src="https://img.shields.io/badge/NYC%20Airbnb%20Dashboard-0ea5e9?style=for-the-badge&logo=streamlit&logoColor=white" width="280" />
+      </a>  
+      <img src="https://img.shields.io/badge/Domain-Marketplace-3b82f6?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Tech-Streamlit%20%7C%20SQLite-9333ea?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Focus-Interactive%20Visualization-9333ea?style=for-the-badge">  
+      <a href="https://github.com/Sangeeta-Kamite/NYC-Air-Airbnb-Streamlight-Dashboard">
+        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Sangeeta-Kamite/Metacritic-Movie-Analytics-Director-Cast-Exploration-">
+        <img src="https://img.shields.io/badge/Metacritic%20Movie%20Analytics-facc15?style=for-the-badge&logo=imdb&logoColor=black" width="280" />
+      </a>  
+      <img src="https://img.shields.io/badge/Domain-Entertainment-f59e0b?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Tech-EDA%20%7C%20Visualization-2563eb?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Focus-Cast%20%26%20Director%20Impact-9333ea?style=for-the-badge">  
+      <a href="https://github.com/Sangeeta-Kamite/Metacritic-Movie-Analytics-Director-Cast-Exploration-">
+        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/Sangeeta-Kamite/A-B-Testing-Dashboard-Streamlight-SQLite-Python">
+        <img src="https://img.shields.io/badge/A%2FB%20Testing%20Dashboard-ec4899?style=for-the-badge&logo=streamlit&logoColor=white" width="280" />
+      </a>  
+      <img src="https://img.shields.io/badge/Domain-Experimentation-ef4444?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Streamlit-2563eb?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Focus-Experiment%20Analysis-9333ea?style=for-the-badge">  
+      <a href="https://github.com/Sangeeta-Kamite/A-B-Testing-Dashboard-Streamlight-SQLite-Python">
+        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Sangeeta-Kamite/Text-Classification-and-Topic-Modeling-Using-spaCy-and-Machine-Learning">
+  <img src="https://img.shields.io/badge/Text%20Classification%20%26%20Topic%20Modeling-9333ea?style=for-the-badge&logo=python&logoColor=white" width="280" />
+</a>  
+<img src="https://img.shields.io/badge/Domain-NLP-22c55e?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tech-spaCy%20%7C%20Topic%20Models-2563eb?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Classification%20%7C%20Themes-9333ea?style=for-the-badge">  
+<a href="https://github.com/Sangeeta-Kamite/Text-Classification-and-Topic-Modeling-Using-spaCy-and-Machine-Learning"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white"></a>
+
+    </td>
+  </tr>
+
+  <!-- Row 5 -->
+  <tr>
+    <td valign="top">
+
+**📑 Intelligent Document Processing for Compliance & Security**  
+<a href="https://github.com/Sangeeta-Kamite/Intelligent-Document-Processing-System-for-Compliance-and-Security">
+  <img src="https://img.shields.io/badge/Intelligent%20Document%20Processing-0ea5e9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="280" />
+</a>  
+<img src="https://img.shields.io/badge/Domain-RegTech-f97316?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tech-OCR%20%7C%20NLP-2563eb?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Compliance%20%26%20Security-9333ea?style=for-the-badge">  
+<a href="https://github.com/Sangeeta-Kamite/Intelligent-Document-Processing-System-for-Compliance-and-Security"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white"></a>
+
+    </td>
+    <td valign="top">
+
+**📈 Unemployment Rate Forecasting — ARIMA & XGBoost**  
+<a href="https://github.com/Sangeeta-Kamite/Unemployment-Rate-Forecasting-Using-ARIMA-and-XGBoost">
+  <img src="https://img.shields.io/badge/Unemployment%20Forecasting-3b82f6?style=for-the-badge&logo=googleanalytics&logoColor=white" width="280" />
+</a>  
+<img src="https://img.shields.io/badge/Domain-Macro%20Economics-2563eb?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tech-ARIMA%20%7C%20XGBoost-9333ea?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Time%20Series%20Forecasting-9333ea?style=for-the-badge">  
+<a href="https://github.com/Sangeeta-Kamite/Unemployment-Rate-Forecasting-Using-ARIMA-and-XGBoost"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white"></a>
+
+    </td>
+  </tr>
+
+  <!-- Row 6 -->
+  <tr>
+    <td valign="top">
+
+**💬 Detection of Depression in Social Media (Twitter)**  
+<a href="https://github.com/Sangeeta-Kamite/Detection-of-Depression-in-Social-Media-via-Twitter-Using-Machine-Learning-Approach">
+  <img src="https://img.shields.io/badge/Depression%20Detection%20(Twitter)-ef4444?style=for-the-badge&logo=twitter&logoColor=white" width="280" />
+</a>  
+<img src="https://img.shields.io/badge/Domain-Social%20NLP-f43f5e?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tech-ML%20%7C%20Text%20Mining-2563eb?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Mental%20Health%20Insights-9333ea?style=for-the-badge">  
+<a href="https://github.com/Sangeeta-Kamite/Detection-of-Depression-in-Social-Media-via-Twitter-Using-Machine-Learning-Approach"><img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white"></a>
+
+    </td>
+    <td valign="top">
+
+**🎬 Metacritic Movie Analytics — (extra slot if you add a new repo)**  
+<sub>Keeping the grid balanced for future additions.</sub>
+
+    </td>
+  </tr>
+</table>
+If you still want even narrower cards
+Change every width="280" to 260 or 240. That’s the one attribute GitHub honors reliably here.
+
+Want me to apply this to your whole README and give you the full file ready to paste?
+
+
+
+
+
+
+
+
+Ask ChatGPT
 
