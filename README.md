@@ -266,10 +266,6 @@
       </p>
     </td>
   </tr>
-</table>
-
-<table>
-  <tr><td colspan="2" align="center"><h2>📚 Publications</h2></td></tr>
   <tr>
     <td width="30%" valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Detection-of-Depression-in-Social-Media-via-Twitter-Using-Machine-Learning-Approach">
@@ -284,20 +280,8 @@
         </a>
       </p>
     </td>
-    <td width="30%" valign="top">
-      <a href="https://github.com/Sangeeta-Kamite/LLM-based-Enhanced-Movie-Recommendation-System">
-        <img src="https://img.shields.io/badge/LLM%20Movie%20Recommender-f97316?style=for-the-badge&logo=openai&logoColor=white" width="280%" />
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/Domain-Recommendation%20Systems-f97316?style=for-the-badge">
-        <img src="https://img.shields.io/badge/Tech-Embeddings%20%7C%20Vector%20DB-22c55e?style=for-the-badge">
-        <img src="https://img.shields.io/badge/Focus-NLP%20%7C%20Similarity-2563eb?style=for-the-badge">
-        <a href="https://github.com/Sangeeta-Kamite/LLM-based-Enhanced-Movie-Recommendation-System">
-        <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </p>
-    </td>
   </tr>
+</table>
 
  
 <table>
