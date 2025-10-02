@@ -285,6 +285,19 @@
         </a>
       </p>
     </td>
+    <td width="30%" valign="top">
+      <a href="https://github.com/Sangeeta-Kamite/Power-BI-Dashboard">
+        <img src="https://img.shields.io/badge/Power%20BI%20Dashboard-ef4444?style=for-the-badge&logo=twitter&logoColor=white" width="280%" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Student%20Career%20Analytics-0ea5e9?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tech-Power%20BI%20%7C%20Data%20Visualization-2563eb?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Focus-Hiring%20Trends%20%7C%20Employer%20Insights-9333ea?style=for-the-badge">
+        <a href="https://github.com/Sangeeta-Kamite/Power-BI-Dashboard">
+          <img src="https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
 
