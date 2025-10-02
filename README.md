@@ -126,7 +126,7 @@
 
 
 <table>
-  <tr>
+  <tr style="background-color:#f9f9f9;">
     <td width="30%" valign="top">
       <a href="https://github.com/Sangeeta-Kamite/Extreme-Weather-Analysis">
         <img src="https://img.shields.io/badge/Extreme%20Weather%20Analysis-0ea5e9?style=for-the-badge&logo=python&logoColor=white" width="280%" />
